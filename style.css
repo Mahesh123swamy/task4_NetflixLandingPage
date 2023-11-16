@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+  
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+nav img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.buttons {
+    margin-left: auto;
+}
+
+.buttons button {
+    margin-left: 10px;
+    padding: 8px 15px;
+    font-size: 1em;
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buttons button:hover {
+    background-color: #ff3e00;
+}
+.start-button{
+    background-color: #e50914;
+    width: 150px;
+height: 50px;
+}
+.text{
+    color: #fff;
+}
+.content{
+    text-align: center;
+     top: 600px;
+     left: 700px;
+     padding: 15%;
+}
+.text{
+    font-weight: bold;
+    font-size: 70px;
+    
+}
+h1
+{
+   color: #fff;
+}
+.text2{
+    height: 50px;
+    width: 300px;
+}
